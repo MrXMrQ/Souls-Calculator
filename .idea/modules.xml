@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SoulsGameCalculator.iml" filepath="$PROJECT_DIR$/SoulsGameCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/souls_calculator.iml" filepath="$PROJECT_DIR$/souls_calculator.iml" />
     </modules>
   </component>
 </project>
